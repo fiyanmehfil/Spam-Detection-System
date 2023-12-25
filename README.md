@@ -29,7 +29,9 @@ This project is designed to identify spam messages through the implementation of
    - Allows the user to input a message, and the trained classifier predicts whether it is spam or not.
 
    a. The user is prompted to input a message.
+   
    b. The input is processed and evaluated by the trained model.
+   
    c. The result is displayed, indicating whether the message is classified as spam or not.
 
 ## Notes
